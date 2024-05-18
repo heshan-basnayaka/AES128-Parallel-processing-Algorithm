@@ -6,6 +6,11 @@ This project provides a robust solution for encrypting and decrypting files with
 
 A-STEM: Advanced Storage Toolkit for Encryption and Migrations. [[https://ieeexplore.ieee.org/document/10417489](https://ieeexplore.ieee.org/document/10417489)]
 
+[![Watch the video](https://img.youtube.com/vi/WDbPZAih-no/0.jpg)](https://ytiframe.com/watch?v=WDbPZAih-no)
+
+
+
+
 ## Features
 
 - **Hybrid CPU-GPU Processing**: Automatically adjusts the workload between CPU and GPU based on system resource usage.
