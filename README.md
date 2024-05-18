@@ -1,4 +1,4 @@
-# File Encryption Project
+# AES128 GPU and CPU Combined Process
 
 This project provides a robust solution for encrypting and decrypting files within a specified folder using AES encryption with a hybrid CPU-GPU approach for optimized performance. The encryption key is derived using the HKDF (HMAC-based Key Derivation Function) combined with the scrypt algorithm for added security.
 
