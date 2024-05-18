@@ -1,0 +1,35 @@
+# Cryptography
+cryptography
+pycryptodome
+
+# Hashing
+hashlib
+hmac
+
+# Password hashing
+scrypt
+
+# Random number generation
+secrets
+
+# System utilities
+psutil
+
+# Regular expressions
+regex
+
+# Crypto library
+pycryptodome
+
+# AES Encryption
+pycryptodome
+
+# Base64 encoding
+pycryptodome
+
+# Torch and related packages
+torch
+torchcsprng
+
+# Array manipulation
+numpy
