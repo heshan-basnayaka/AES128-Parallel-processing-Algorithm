@@ -2,6 +2,10 @@
 
 This project provides a robust solution for encrypting and decrypting files within a specified folder using AES encryption with a hybrid CPU-GPU approach for optimized performance. The encryption key is derived using the HKDF (HMAC-based Key Derivation Function) combined with the scrypt algorithm for added security.
 
+## Research Paper
+
+A-STEM: Advanced Storage Toolkit for Encryption and Migrations. [[https://ieeexplore.ieee.org/document/10417489](https://ieeexplore.ieee.org/document/10417489)]
+
 ## Features
 
 - **Hybrid CPU-GPU Processing**: Automatically adjusts the workload between CPU and GPU based on system resource usage.
