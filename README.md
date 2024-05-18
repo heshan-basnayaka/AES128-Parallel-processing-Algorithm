@@ -21,7 +21,7 @@ A-STEM: Advanced Storage Toolkit for Encryption and Migrations. [[https://ieeexp
 
 ## Requirements
 
-- Python 3.7 or higher
+- Python 3
 - Required Python packages:
   - hashlib
   - hmac
