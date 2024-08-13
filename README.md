@@ -37,7 +37,7 @@ A-STEM: Advanced Storage Toolkit for Encryption and Migrations. [[https://ieeexp
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/heshan-basnayaka/cpu-gpu-combined-encryption-algorithm-aes128.git
+   git clone https://github.com/heshan-basnayaka/AES128-Parallel-processing-Algorithm.git
    cd cpu-gpu-combined-encryption-algorithm-aes128
 
 2. CInstall the required packages:
